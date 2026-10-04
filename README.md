@@ -25,6 +25,12 @@ Ideas resonate. Patterns emerge. Understanding finds *you*.
 
 </div>
 
+## Evidence and terminology boundary
+
+In this repository, **resonance**, **wave**, **quantum-ethics**, and similar terms are project vocabulary for software-quality, provenance, optimization, or governance experiments unless a specific file provides a separately reproducible physical model. A coherence score is a software heuristic; it is not a measurement of quantum entanglement, consciousness, or a physical field.
+
+The repository is an experimental collaborative software lab. Passing its tests supports only the behavior exercised by those tests.
+
 ## 🎯 What Is This Place?
 
 reson8 Labs is a **collaborative discovery space** – a collection of tools built by humans, AI agents, and the sparks that fly when they create together.
